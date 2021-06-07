@@ -1,0 +1,13 @@
+.card {
+    margin-left: 125px;
+    width: fit-content;
+    padding: 5px;
+    color: gray;
+    background-color: transparent;
+    border:2px solid gray;
+}
+
+.card-inner {
+    width: 200px;
+    text-align: center;
+}
