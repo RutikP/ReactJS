@@ -1,0 +1,27 @@
+.zeroItemstag{
+    color: black;
+    text-align: center;
+    font-size: large;
+}
+.zeroItemslink:hover{
+    color: black;
+}
+
+.ptagoflink{
+    text-align: center;
+}
+
+.zeroItemslink{
+    text-align: center;
+    color: black;
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+
+.totamount{
+    margin-left: 100px;
+  }
+
+
+  

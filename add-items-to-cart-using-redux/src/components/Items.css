@@ -1,0 +1,25 @@
+.card{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    .card{
+        margin: auto;
+        width: 70%;
+    }
+  }
+
+@media only screen and (max-width: 520px) {
+    .card{
+        width: 90%;
+        
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+  }
+
+  
+  
