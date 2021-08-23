@@ -1,0 +1,53 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sorting {
+  padding-bottom: 1rem;
+  border-bottom: 3px solid #b2d4d4;
+  margin-bottom: 2rem;
+}
+
+.sorting button {
+  font: inherit;
+  color: teal;
+  border: 1px solid teal;
+  background-color: transparent;
+  border-radius: 4px;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+}
+
+.sorting button:hover {
+  background-color: #c2fafa;
+}
+
+/* .sorting input{
+  background-color: transparent;
+  height: 40px;
+  width: 200px;
+  border: 1px solid teal;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+.sorting input::placeholder{
+  color: teal;
+  text-align: center;
+  font-size: medium;
+}
+.sorting input:hover{
+  background-color: #c2fafa;
+}
+.sorting input:active{
+  outline: none;
+  border: 1px solid teal;
+}
+
+.sorting input:focus{
+  outline: none;
+  border: 1px solid teal;
+  font-size: medium;
+  color: teal;
+} */
